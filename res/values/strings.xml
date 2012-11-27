@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jimvader</string>
+    <string name="title_1">Jim</string>
+    <string name="title_2">Vaders</string>
+    <string name="start">Start</string>
+    <string name="accuracy">Accuracy</string>
+</resources>
